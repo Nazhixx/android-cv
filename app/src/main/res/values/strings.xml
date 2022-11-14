@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">cv</string>
+    <string name="description1">I have been studying computer engineering at Sharif University of technology since 2019. My GPA is 18.9 and my ranking is 54.</string>
+    <string name="description2">I worked as a backend developer for Tapsell for five months. The stack we used was mainly kotlin and spring boot.</string>
+    <string name="description3">I worked as a software engineer in Balad for four months. The stack was Django and Golang.</string>
 </resources>

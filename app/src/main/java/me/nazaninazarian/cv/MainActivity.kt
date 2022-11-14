@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun call(view: View){
-        val callIntent = Intent(Intent.ACTION_CALL)
+        val callIntent = Intent(Intent.ACTION_DIAL)
         callIntent.data = Uri.parse("tel:09198923977")
         startActivity(callIntent)
     }
